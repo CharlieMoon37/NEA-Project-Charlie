@@ -1,3 +1,5 @@
+# Get a life Charlie
+
 # def main(word, extras):
 #     os.chdir(os.getcwd().replace("Word_Checks", "Sorted_Lists"))
 #     sorted_word = letter_sort(word)
